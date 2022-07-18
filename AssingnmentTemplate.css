@@ -1,0 +1,226 @@
+.mail{
+    padding: 5px;
+    
+}
+.back{
+    height: 200px;
+    width: 100%;
+}
+.text{
+    padding-left: 15px;
+    margin-top: auto;
+}
+.Event{
+    color: rgb(173, 170, 170);
+    font-size: 15px;
+    margin-top: -40px;
+}
+.coding{
+    padding-left: 14px;
+    padding-top: 14px;
+    color: rgb(246, 243, 243);
+    font-size: 50px;
+}
+.coding1{
+    margin-right: 45%;
+    padding-top: 24px;
+    color: rgb(246, 243, 243);
+    font-size: 50px;
+}
+.calender{
+    
+    height: fit-content;
+    border-radius: 50%;
+    width: 140px;
+    float: end;
+    margin-top: -75px;
+    margin-left: 740px;
+    text-align: end;
+    justify-items: end;
+    ;
+}
+.calender1{
+    
+    height:80px;
+    border-radius: 70%;
+    width:80px;
+    margin-top: 62px;
+    margin-left: 40px;
+}
+.user{
+    background-color: rgba(128, 128, 128, 0.221);
+    border-radius: 55px;
+    color: rgb(180, 174, 174);
+    text-decoration:none;
+    border: none;
+}
+.user:hover{
+    background-color: rgba(128, 128, 128, 0.221);
+    border-radius: 55px;
+    color: rgb(180, 174, 174);
+    text-decoration:none;
+    border: none;
+}
+.main{
+    background-color: black;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    flex-wrap: nowrap;
+    background-attachment: fixed;
+}
+.img1{
+    margin-top: -6px;
+    margin-right: 25px;
+    height: 100px;
+    width: 100px;
+}
+.manage{
+    color: rgb(209, 102, 102);
+}
+.cal{
+    padding-left: 12px;
+    padding-top: 1px;
+    color: rgb(248, 82, 82);
+    
+}
+.cal:hover{
+    color: rgb(248, 82, 82);
+}
+
+.register{
+    color:white;
+    padding-left: 13px;
+    width: 50%;
+}
+.jumbo{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 15PX;
+    background-color: rgba(131, 127, 127, 0.467);
+    height: fit-content;
+    width: 600px;
+    border-radius: 15%;
+    border: none;
+}
+.title{
+    margin-top: -90px;
+    margin-left: 140px;
+}
+.vertical {
+    border-left: 1px solid rgb(160, 157, 157);
+    height: 470px;
+    position:relative;
+    left: 65%;
+    margin-top: 35px;
+}
+.left{
+    
+    /* margin-top: -480px; */
+    margin-right: 180px;
+}
+
+.side{
+    margin-top: 35px;
+    margin-left: -83px;
+}
+.horizontal{
+    border-bottom: 1px solid rgb(160, 157, 157);
+    width: 230px;
+    position:relative;
+    margin-top: 80px;
+
+}
+.horizontal2{
+    border-bottom: 1px solid rgb(160, 157, 157);
+    width: 230px;
+    position:relative;
+    margin-top: 1px;
+
+}
+.horizontal3{
+    border-bottom: 1px solid rgb(160, 157, 157);
+    width: 1030px;
+    position:inherit;
+    margin-top: 150px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+
+}
+.horizontal4{
+    border-bottom: 1px solid rgb(160, 157, 157);
+    width: 1020px;
+    position:inherit;
+    margin-top: 1px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+
+}
+.location1{
+    margin-top: 25px;
+    color: white;
+}
+.location2{
+    margin-top: 125px;
+    color: white;
+}
+.map{
+    width: 10em;
+    height: 10px;
+}
+.share{
+    margin-top: 15px;
+    margin-left: 25px;
+    border-radius: 50px;
+}
+.foot{
+    margin-bottom: 100px;
+    margin-top: -10px;
+    background-color: black;
+    
+}
+.bg-pages2{
+    background-color: black;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    flex-wrap: nowrap;
+    background-attachment: fixed;
+}
+
+.login{
+    margin-top: 60px;
+    margin-left: 100px;
+
+    margin-bottom: 10px;
+
+    text-decoration:none;
+    border: none;
+}
+.mar{
+    margin-left: 100px;
+    margin-right: 130px;
+    border-radius: none;
+}
+.mar1{
+    
+    margin-right: 50px;
+    border-radius: none;
+}
+.mar2{
+    margin-top: -25px;
+    margin-right:150px;
+    border-radius: none;
+}
+.mar3{
+
+    margin-left: 5px;
+    border-radius: none;
+}
+.gradi{
+    height: 150px;
+    width: 250px;
+    border-radius: 12%;
+    margin-left: -100px;
+}
+.bt{
+    margin-top: 85px;
+}
