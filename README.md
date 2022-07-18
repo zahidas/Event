@@ -1,6 +1,6 @@
 Event
 
-screeshots of webpages
+screeshot of webpages
 
 ![LoginPage](https://user-images.githubusercontent.com/107533655/179562852-bee29a15-f3f8-4fa3-acc3-bc2a6cd29d80.png)
 ![EventList](https://user-images.githubusercontent.com/107533655/179562899-450d6379-ae51-4039-b54b-e0b91bfaa0e8.png)
